@@ -10,40 +10,31 @@ export const projects = [
       'abu taher',
       'thanwin',
       'promi',
-      'sumiya',
     ],
   },
   {
     id: 'number-comparator',
     name: 'Number Comparator',
     description: 'A simple number comparator app.',
-    contributors: ['bongoDev', 'shobuz', 'sumiya', 'thanwin', 'promi'],
+    contributors: ['bongoDev', 'shobuz', 'sumaiya', 'thanwin', 'promi'],
   },
   {
     id: 'grade-calculator',
     name: 'Grade Calculator',
     description: 'A simple grade calculator app.',
-    contributors: ['thanwin', 'promi', 'sumiya'],
+    contributors: ['thanwin', 'promi'],
   },
- 
   {
     id: 'multiplication-table',
     name: 'Multiplication Table',
     description: 'A simple multiplication table app.',
-    contributors: ['talha', 'sumiya'],
+    contributors: ['talha'],
   },
-  {
-    id: 'number-table-1-10',
-    name: 'Number Table of 1-10',
-    description: 'A simple Number Table render app.',
-    contributors: ['sumiya'],
-  },
-
   {
     id: 'render-products',
     name: 'Render Products',
     description: 'A simple product rendering app using useEffect hook.',
-    contributors: ['bongoDev', 'thanwin', 'promi', 'sumiya'],
+    contributors: ['bongoDev', 'thanwin', 'promi'],
   },
   {
     id: 'simple-ecommerce',
